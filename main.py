@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
     print(number_of_items)
 
-    population_size = 400
+    population_size = 300
 
     generation = 0
 
